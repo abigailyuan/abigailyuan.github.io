@@ -1,0 +1,12 @@
+title: "Meng Yuan’s Blog"
+email: meng.yuan@unimelb.edu.au
+description: >-
+  Exploring IR evaluation, embedding interpretability, and LLM-powered RAG.
+baseurl: ""        # user pages live at root
+url: "https://mengyuan.github.io"
+
+remote_theme: pages-themes/minimal@v0.3.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
