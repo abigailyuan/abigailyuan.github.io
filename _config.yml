@@ -5,7 +5,7 @@ description: >-
 baseurl: ""        # user pages live at root
 url: "https://mengyuan.github.io"
 
-remote_theme: pages-themes/minimal
+remote_theme: pages-themes/modernist
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
