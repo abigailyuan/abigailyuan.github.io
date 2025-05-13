@@ -1,7 +1,8 @@
 ---
 layout: home
-title: "Welcome"
+title: "Meng Yuan’s Blog"
 ---
+
 
 Hello! I’m **Meng Yuan**, a Research Fellow in Information Retrieval at the University of Melbourne.  
 I write about **IR evaluation**, **embedding interpretability**, and innovations in **retrieval-augmented generation**.  

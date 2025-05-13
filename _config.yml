@@ -9,4 +9,23 @@ remote_theme: pages-themes/minimal
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-archives
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Posts
+    url: /categories/
